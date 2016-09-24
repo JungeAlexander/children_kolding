@@ -5,6 +5,13 @@ of health care data of children in Kolding, Denmark.
 
 Data set provided by Kolding Stadsarkiv.
 
+
+## Contributors
+
+- Dimitris Giokas
+- Spyridon Koutsos
+- Alexander Junge 
+
 ## Data set description
 
 https://docs.google.com/presentation/d/15mj11bR5NTpB5tvF5AZXkwjRH3NxtHrbv-iioq51flQ/edit#slide=id.g172c4c7fcc_0_151
