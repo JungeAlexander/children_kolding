@@ -5,22 +5,11 @@ of health care data of children in Kolding, Denmark.
 
 Data set provided by Kolding Stadsarkiv.
 
-
-## Contributors
-
-- Dimitris Giokas
-- Spyridon Koutsos
-- Alexander Junge 
-
-## Brainstorming
-
-https://docs.google.com/document/d/1Ww98VJgonodQdmKHb7Ylp2bWPuwb-ySzic5u1YBr7n8/edit?ts=57e66506
-
 ## Data set description
 
-https://docs.google.com/presentation/d/15mj11bR5NTpB5tvF5AZXkwjRH3NxtHrbv-iioq51flQ/edit#slide=id.g172c4c7fcc_0_151
+The data set is described here:
 
-Data license: TODO
+https://docs.google.com/presentation/d/15mj11bR5NTpB5tvF5AZXkwjRH3NxtHrbv-iioq51flQ/edit#slide=id.g172c4c7fcc_0_151
 
 ## Running the analysis
 
@@ -40,10 +29,19 @@ Linux, OS X: $ source activate boern_kolding
 Windows: $ activate boern_kolding
 ```
 
+Then download the data in [XML format](http://www.komda.dk/hack4dk/KoldingKommune/BoernXML.zip) and unzip
+the archive to the directory cloned from GitHub.
+
 Afterwards, the jupyter notebook can be run by executing:
 
 ```
 $ jupyter notebook children_kolding.ipynb
 ```
+
+## Contributors
+
+- Dimitris Giokas
+- Spyridon Koutsos
+- Alexander Junge 
 
 
