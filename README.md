@@ -1,4 +1,4 @@
-# Children in Kolding
+# Analysis of children's health care data from Kolding, Denmark
 
 Analysis of [Hack4DK](https://hack4.dk/) [dataset](https://docs.google.com/spreadsheets/d/1hDJItyQqaeRTbo30C1y4fHPzp4Q4tlQHoCCKSJwv2iQ/edit#gid=0)
 of health care data of children in Kolding, Denmark.
